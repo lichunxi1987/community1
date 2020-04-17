@@ -1,9 +1,10 @@
 ##码匠社区
 
 ##资料
-https://spring.io.guide
-https://elasticsearch.cn/explore
-##工具
-https://git.scm.com/download
+[spring 文档] https://spring.io.guide
+[elastic search]https://elasticsearch.cn/explore
+[github授权登录的文档]https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app
 
+##工具
+[git]https://git.scm.com/download
 
