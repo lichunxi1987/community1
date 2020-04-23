@@ -1,6 +1,6 @@
 package com.rufeng.community.majiangbiji.dto;
 
-public class GitubUser {
+public class GithubUser {
     private String name;
     private Long id;
     private String bio;
